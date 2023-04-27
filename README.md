@@ -43,9 +43,3 @@ Then you can add migrations for your database like this:
 PM> add-migration InitialCreate -Context ApplicationDbContext -OutputDir "Database/Migrations" 
 ```
 
-
-## License ##
-
-All code is released under terms of the [MIT License].
-
-[MIT License]: https://opensource.org/licenses/MIT
